@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\DC_Source_with_LCD.X.production.hex">
+    <memory name="program">
+      <units>words</units>
+      <length>1024</length>
+      <used>528</used>
+      <free>496</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>67</length>
+      <used>27</used>
+      <free>40</free>
+    </memory>
+  </executable>
+</project>
